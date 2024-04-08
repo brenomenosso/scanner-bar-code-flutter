@@ -1,6 +1,6 @@
-# horizontal_barcode_scanner
+# horizontal_barcode_scanner_example
 
-A new Flutter project.
+Demonstrates how to use the horizontal_barcode_scanner plugin.
 
 ## Getting Started
 
